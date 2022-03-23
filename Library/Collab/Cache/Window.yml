@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Samples/XR Plugin Management.meta
+    - Assets/Samples/XR Plugin Management/4.2.1.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleBuildProcessor.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleBuildProcessor.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleMetadata.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleMetadata.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleSettingsEditor.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleSettingsEditor.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleStandaloneLoaderUI.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/SampleStandaloneLoaderUI.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/Unity.XR.Management.Samples.Editor.asmdef
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Editor/Unity.XR.Management.Samples.Editor.asmdef.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleConstants.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleConstants.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleLoader.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleLoader.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleSettings.cs
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/SampleSettings.cs.meta
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Unity.XR.Management.Samples.asmdef
+    - Assets/Samples/XR Plugin Management/4.2.1/Example XR Management implementation/Unity.XR.Management.Samples.asmdef.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/XR/Loaders/Sample Loader.asset
+    - Assets/XR/Loaders/Sample Loader.asset.meta
+    - Assets/XR/Settings/Sample Settings.asset
+    - Assets/XR/Settings/Sample Settings.asset.meta
+    - ProjectSettings/PresetManager.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
